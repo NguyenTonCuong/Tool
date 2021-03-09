@@ -1,0 +1,78 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: g8JzlKNJ3CW3/zxp6vct5+GmtmBcp
+ TqgPWeV+SzEcR8=
+SHA-256-Digest-Manifest: NdgkIKzJIADd5HlKGZdEyePTKUF3cLqbn86cT5gf8Eo=
+Created-By: 1.8.0_171 (Oracle Corporation)
+
+Name: plugin.xml
+SHA-256-Digest: 3+EKYRfjMd88+mrv6JQCxw5I3n4l21W4DYN/ltSQE/I=
+
+Name: intro/sconsolidator_overview.xml
+SHA-256-Digest: DS69h20SuA7WrEowr3oFIXR9g8VtUm4SkQr/rI9IiXE=
+
+Name: intro/css/images/logo.png
+SHA-256-Digest: SvpNQKqe0ZVY0zhvwymB+NX/yPim7egkdarKxQL23Mo=
+
+Name: html/whatsnew.html
+SHA-256-Digest: YuI2loZdVieMuUDEbCX86NOTFxEU08Cnr3naDRVz/EQ=
+
+Name: intro/sconsolidator_tutorial.xml
+SHA-256-Digest: 9ajwxh0j7rhtF3RZ1hAOPVX0IXRzxZDvTJZzkzSBblE=
+
+Name: images/interactiveconsole.png
+SHA-256-Digest: H7dan4VXK0lqACR4QHGC5lLnoIzg6gkd1IzHqhzyIrY=
+
+Name: intro/css/overview.css
+SHA-256-Digest: 0O2zbT8OSIEkRCuuG6jZjsLmKlgy1OWZQFdN4CtIYFs=
+
+Name: intro/css/overview.properties
+SHA-256-Digest: /Ql4eCE/RSerD1T9mcRpQwcDQlqlUeEgD3kf/JNUFNI=
+
+Name: html/gettingstarted.html
+SHA-256-Digest: eSx9cY1qeUvVvuPlocG+GCEoaz6PLLGzp/QBVnUFsZQ=
+
+Name: help.css
+SHA-256-Digest: l+BjNiyEV6qs0Xwz/Nq75a/lnDvFvKW8PxE1eSCFmKQ=
+
+Name: images/buildconsole.png
+SHA-256-Digest: oWyNg9Hups8jTOIfLJm2TB1EivE/Dpg+R+MJFa/elv4=
+
+Name: images/newprojectdialog.png
+SHA-256-Digest: v4QqsuLvn7LbMeNb8LswGpJMIEaUbVCBbazhDpmkXA8=
+
+Name: maintoc.xml
+SHA-256-Digest: nhpdb+OsxfBQbr80dMu70djdgQP4ZofyWMEPhpRK8XM=
+
+Name: toc.xml
+SHA-256-Digest: ioIrSlbDbFuGFgizt6k5Ct/4svKiFjmKYF9pBtLD1Qo=
+
+Name: images/dependencyview.png
+SHA-256-Digest: GFfvWbRUJFQPcxe42YHpxDQU7LSfnYWRA2ZiipqVwNo=
+
+Name: images/newtarget.png
+SHA-256-Digest: GAO50ymjOnwJdEfNnIKTXjt+1A9StzubNGNk0LLi92Q=
+
+Name: images/targetview.png
+SHA-256-Digest: mtGa25i6FqtqqOfvwCRkAdKOYrd6fpALLnCkFj5nW6g=
+
+Name: images/convertdialog.png
+SHA-256-Digest: svN6eJAlGHfdBGhsHHLzjYZZ2Y3GjHTGCBQuDSanaEk=
+
+Name: html/overview.html
+SHA-256-Digest: sL5xesN7I9w6TxWScLx/frI2fwTjY87QgtKwaq9z7eo=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: KS6+KfGqbPnJw2/E9Z9vnRHqKjkeeTv8kmgkk0P27vM=
+
+Name: images/importdialog.png
+SHA-256-Digest: 0EHPiG1IYPYDn9D6rqdwDccQbipuWuPGMUAGRbIqKtc=
+
+Name: intro/css/tutorial.css
+SHA-256-Digest: iMN0gNmuop3objpsNn1Ou2LhzuvW/KFkDEvbDST11S8=
+
+Name: intro/css/sconsolidator_tutorial.properties
+SHA-256-Digest: 8fv+yXC/Pkyov6WfwFbbDSL5xzsvNC37ySXv58uADfQ=
+
+Name: html/toc.html
+SHA-256-Digest: yV6OSl/gAs+byd1l1rqchHkUcvrsk+jU45q4V69QtGQ=
+
